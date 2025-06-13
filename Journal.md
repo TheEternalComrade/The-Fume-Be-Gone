@@ -23,6 +23,7 @@ I'll keep the printer in our living room, which ironically is the least lived-in
 Another thing! My ventilation setup requires exhausting to the outside. This will likely cause the temperature in the enclosure to go down. While this might be a problem with other filaments, it's actually kinda perfect for PLA as an enclosure in the first place can cause it to get too hot. So the cooling caused by venting helps counteract this effect!
 
 Now that the yapping is done, here are some skectches for what everything will look like:
+![17497753030451605167190311932165](https://github.com/user-attachments/assets/ba623f95-9bcb-4aed-8c7e-ea9f75b586dc)
 
 Time spent: 3 hours
 
